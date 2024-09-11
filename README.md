@@ -1,9 +1,9 @@
 # pipelane
 
 
-* Biblitecas utilizadas
--   Pydantic
--   SQLAlchemy
--   Postgre
--   Mkdocs
--   Streamlit
+** Biblitecas utilizadas
+    -   Pydantic
+    -   SQLAlchemy
+    -   Postgre
+    -   Mkdocs
+    -   Streamlit
