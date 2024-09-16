@@ -1,9 +1,10 @@
-# pipelane
+### **Desenvolvimento de um Site para registro de Vendas - CRM **
+
+### ** Descrição do Produto conforme requisitos do CRM **
 
 
-** Biblitecas utilizadas
-    -   Pydantic
-    -   SQLAlchemy
-    -   Postgre
-    -   Mkdocs
-    -   Streamlit
+### ** Biblitecas utilizadas
+-   -   Streamlit
+-   -   SQLAlchemy -- PostgreSQL
+-   -   Pydantic
+-   -   Mkdocs
